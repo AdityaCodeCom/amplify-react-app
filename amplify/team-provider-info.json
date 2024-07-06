@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-advenroam-dev-8bc04-authRole",
+      "UnauthRoleArn": "arn:aws:iam::931939598257:role/amplify-advenroam-dev-8bc04-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::931939598257:role/amplify-advenroam-dev-8bc04-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-advenroam-dev-8bc04-deployment",
+      "UnauthRoleName": "amplify-advenroam-dev-8bc04-unauthRole",
+      "StackName": "amplify-advenroam-dev-8bc04",
+      "StackId": "arn:aws:cloudformation:ap-south-1:931939598257:stack/amplify-advenroam-dev-8bc04/e2e1d720-3b62-11ef-b11d-02d72652eec7",
+      "AmplifyAppId": "d3b5htte0o4gzm"
+    },
+    "categories": {
+      "auth": {
+        "advenroamf978a779": {}
+      }
+    }
+  }
+}
